@@ -1,0 +1,41 @@
+*{
+  margin:0;
+  padding: 0;
+}
+.leftie{
+  margin-left: 20px;
+  margin-top: 20px;
+  position: absolute;
+}
+.leftie hr{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.details{
+  position: absolute;
+}
+.description p{
+  width: 500px;
+  height: 180px;
+  text-align: justify;
+  margin-left: 330px;
+  margin-top: -4px;
+  font-family:'Jura';
+  font-size: 14.5px;
+}
+.details h2{
+
+  background-color: #666262;
+  text-align: center;
+  margin-top: -4px;
+  color: #ffffff;
+  padding: 2px;
+  font-family: "Bebas Neue";
+  font-weight: 400;
+
+}
+.rightie{
+  margin-left: 890px;
+  margin-top: -30px;
+}

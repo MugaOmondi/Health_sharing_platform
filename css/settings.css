@@ -1,0 +1,93 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.details{
+  position: absolute;
+
+}
+.description{
+  margin-left: 110px;
+  width: 500px;
+  margin-top: 10px;
+}
+.description p::-webkit-scrollbar{
+  display: none;
+}
+.description p{
+  text-align: justify;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  max-height: 95px;
+  min-height: 97px;
+  overflow-x: auto;
+  -ms-overflow-style:none;
+  scrollbar-width:none;
+}
+.description h2{
+  background-color: #666262;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 4px;
+}
+img{
+  margin-bottom: 50px;
+}
+
+/*.personal2{
+  position: absolute;
+}*/
+
+.reverb{
+  margin-left: 120px;
+    width: 500px;
+    margin-bottom: 4px;
+    text-align: justify;
+    margin-top: -185px;
+}
+.paragraph2 p{
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  width: 500px;
+  margin-bottom: 10px;
+  padding: 10px;
+  margin-left: 100px;
+  font-family: 'Jura';
+  font-size: 13px;
+}
+.reverb h2{
+  background-color: #666262;
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-family: 'Bebas Neue';
+}
+.leftie{
+  position: absolute;
+  margin-left: 30px;
+}
+.rightie{
+  margin-left: 700px;
+    margin-top: -10px;
+}
+.paragraph1{
+  margin-top: 10px;
+  height: 365px;
+  overflow-x: auto;
+  -ms-overflow-style:none;
+  scrollbar-width:none;
+}
+.paragraph1::-webkit-scrollbar{
+  display: none;
+}
+
+.paragraph2::-webkit-scrollbar{
+  display: none;
+}
+
+.reverb p{
+  font-family: 'Jura';
+  font-size: 13px;
+}

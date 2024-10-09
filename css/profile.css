@@ -1,0 +1,110 @@
+.dets{
+  padding: 10px;
+  border: 2px solid #fb8282;
+  border-radius: 7px;
+  height: 150px;
+}
+.echoed{
+  position: absolute;
+  padding-top: 30px;
+  margin-left: 20px;
+}
+.name{
+  margin-left: 150px;
+}
+.name p{
+  font-family:'Jura';
+  font-size: 13px;
+}
+.name h4{
+  font-size: 14px;
+  font-family:'Jura';
+
+}
+.name h1{
+  font-family:'Bebas Neue';
+}
+.top{
+
+  border: 2px solid #fb8282;
+  padding: 20px;
+  margin-right: 70px;
+  border-radius: 7px;
+  min-height: 130px;
+  margin-bottom: 10px;
+}
+#setter{
+  height: 83px;
+  width: 300px;
+  position: absolute;
+  margin-left: 15px;
+
+}
+.middle{
+  margin-left: 320px;
+}
+.mezanine{
+  margin-top: 10px;
+}
+.floor{
+  margin-top: 20px;
+  margin-left: 15px;
+}
+.floor input{
+  background-color: #fb8282;
+  border-style: none;
+  padding: 5px;
+  height: 35px;
+  width: 100px;
+  border-radius: 5px;
+}
+textarea{
+  background-color: #d9d9d9;
+  border-style: none;
+  border-radius: 7px;
+}
+.middle input{
+  background-color: #d9d9d9;
+  border-style: none;
+  height: 35px;
+  width: 220px;
+  border-radius: 5px;
+
+}
+.middle select{
+  border-radius: 5px;
+  background-color: #d9d9d9;
+  border-style: none;
+  height: 35px;
+  width: 220px;
+
+}
+.act{
+  display: flex;
+}
+.act1{
+  margin-right: 5px;
+}
+.switch{
+  margin-left: 500px;
+  margin-right: 10px;
+  padding: 2px;
+  text-align: center;
+  margin-top: 20px;
+    background-color: #fb8282;
+    border-radius: 2px;
+
+
+}
+.switch a{
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Jura';
+}
+.edet a{
+  margin-right: 2px;
+  color: #fb8282;
+  text-decoration: none;
+  font-family: 'Jura';
+  font-size: 14px;
+}

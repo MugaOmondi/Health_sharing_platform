@@ -1,0 +1,27 @@
+.edet a{
+  margin-left: 335px;
+  margin-right: 2px;
+  color: #fb8282;
+  text-decoration: none;
+  font-family: 'Jura';
+  font-size: 14px;
+  font-weight: bold;
+}
+.pagers a{
+  text-decoration: none;
+  color: #ffffff;
+  font-family:'Jura';
+  font-size: 10px;
+}
+.pagers {
+
+  background-color: #fb8282;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  padding: 2px;
+  border-radius: 10px;
+  margin-left: 10px;
+  text-align: center;
+
+}

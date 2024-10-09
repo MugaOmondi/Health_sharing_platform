@@ -1,0 +1,129 @@
+@import url('http://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('http://fonts.googleapis.com/css2?family=Jura:wght@300..700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+.poster{
+  margin-left: 30px;
+  position: absolute;
+  margin-top: -20px;
+}
+.posters{
+  background-color: #d9d9d9;
+  margin-top: 10px;
+  padding: 10px;
+  padding-left: 20px;
+    padding-right: 20px;
+  width: 750px;
+  border-radius: 10px;
+  text-align: justify;
+}
+hr{
+  margin-top: 10px;
+}
+.sugget{
+  margin-left: 840px;
+  margin-top: -13px;
+  min-height: 570px;
+  max-height: 580px;
+  overflow-x: auto;
+  -ms-overflow-style:none;
+  scrollbar-width:none;
+}
+.suggests {
+  background-color: #d9d9d9;
+  padding: 10px;
+  margin-top: 10px;
+  margin-right: 20px;
+  border-radius: 10px;
+  font-family: 'Jura';
+  font-size: 13px;
+
+}
+.pagers a{
+  text-decoration: none;
+  color: #ffffff;
+  font-family:'Jura';
+  font-size: 10px;
+}
+.pagers {
+
+  background-color: #fb8282;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  padding: 2px;
+  border-radius: 10px;
+  margin-left: 10px;
+  text-align: center;
+
+}
+.page{
+  margin-left: 300px;
+  margin-top: -10px;
+}
+.directions{
+  margin-right: 300px;
+  padding-top: 20px;
+  margin-left: 500px;
+}
+.directions button{
+  height: 30px;
+  width: 80px;
+  background-color: #fb8282;
+  border: 1px solid #ffffff;
+  padding: 2px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: 'Jura';
+}
+.edet a{
+  margin-left: 670px;
+  margin-right: 2px;
+  color: #fb8282;
+  text-decoration: none;
+  font-family: 'Jura';
+  font-size: 14px;
+  font-weight: bold;
+}
+hr{
+  color: #666262;
+}
+.posters h1{
+  font-family: 'Bebas Neue';
+  color: #666262;
+}
+.posters h5{
+  font-family: 'Jura';
+  color: #ffffff;
+
+}
+.posters p{
+  font-family: 'Jura';
+  font-size: 14px;
+}
+nav{
+  display: flex;
+}
+nav h1{
+  width: 300px;
+  padding-top: 20px;
+  color: #666262;
+  margin-left: -75px;
+  font-family: "Bebas Neue";
+
+}
+.ogout{
+    margin-top: -12px;
+}
+.ogout a{
+  color: #fb8282;
+  text-decoration: none;
+  font-family: 'Jura';
+  font-size: 14px;
+
+}
+.logout{
+  text-align: right;
+}

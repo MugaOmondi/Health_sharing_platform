@@ -1,0 +1,97 @@
+.jungle{
+  background-color: #fb8282;
+  margin-top: 110px;
+  width: 600px;
+  height: 220px;
+  padding: 30px;
+  margin-left: 350px;
+  border-radius: 17px;
+}
+.lion{
+  text-align: right;
+  margin-top: -10px;
+}
+.lion h1{
+  font-family: "Bebas Neue";
+    margin-bottom: -20px;
+    color: #666262;
+    font-size: 40px;
+}
+.lion h4{
+  font-family: "Jura";
+  margin-top: 5px;
+  color: #666262;
+}
+.gazelle{
+  position: absolute;
+  margin-top: 40px;
+}
+
+.username input{
+  background-color: #d9d9d9;
+  width: 250px;
+  height: 33px;
+  border-radius: 5px;
+  border-style: none;
+}
+.username{
+  margin-bottom: 7px;
+}
+.email input{
+  background-color: #d9d9d9;
+  width: 280px;
+  height: 33px;
+  border-radius: 5px;
+  border-style: none;
+}
+.passcode{
+  margin-top: 7px;
+}
+.passcode input{
+  background-color: #d9d9d9;
+  width: 200px;
+  height: 33px;
+  border-radius: 5px;
+  border-style: none;
+}
+.email input{
+  background-color: #d9d9d9;
+  width: 280px;
+  height: 33px;
+  border-radius: 5px;
+  border-style: none;
+}
+.blowup{
+  margin-top: 7px;
+}
+.blowup select{
+  background-color: #d9d9d9;
+  width: 150px;
+  height: 33px;
+  border-radius: 5px;
+  border-style: none;
+}
+.blowup input{
+  background-color: #d9d9d9;
+  width: 270px;
+  height: 33px;
+  border-radius: 5px;
+  border-style: none;
+}
+.words input{
+  background-color: #666262;
+  border: none;
+  border-radius: 5px;
+  height: 40px;
+  width: 80px;
+  padding: 5px;
+  font-family: 'Jura';
+  color: #ffffff;
+}
+.words{
+  margin-top: 50px;
+  margin-left: -27px;
+}
+.imarage{
+  margin-top: 7px;
+}

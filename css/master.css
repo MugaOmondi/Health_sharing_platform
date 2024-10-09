@@ -1,0 +1,83 @@
+@import url('http://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('http://fonts.googleapis.com/css2?family=Jura:wght@300..700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+nav{
+  display: flex;
+}
+body{
+  background-color: #d9d9d9;
+}
+.rat {
+  background-color: #666262;
+  padding: 0.5px;
+  width: 1000px;
+  text-align: center;
+}
+.cat {
+  background-color: #fb8282;
+  text-align: right;
+  margin-left: 10px;
+  padding: 0.5px;
+  width: 354px;
+}
+.rat h1{
+  font-family: 'Bebas Neue';
+  color: #d9d9d9;
+
+}
+.cat h1{
+  font-family: 'Bebas Neue';
+  color: #d9d9d9;
+  padding-right: 2px;
+}
+.rat h4{
+  font-family: 'Jura';
+  margin-top: -12px;
+  color: #ffffff;
+  margin-left: -10px;
+}
+.cat h4{
+  font-family: 'Jura';
+  margin-top: -12px;
+  color: #ffffff;
+  padding-right: 2px;
+}
+.rat2 {
+  background-color: #d9d9d9;
+  padding: 0.5px;
+  width: 1000px;
+  text-align: center;
+}
+.cat2 {
+  background-color: #fb8282;
+  text-align: right;
+  margin-left: 10px;
+  padding: 0.5px;
+  width: 354px;
+}
+.rat2 h1{
+  font-family: 'Bebas Neue';
+  color: #666262;
+
+}
+.cat2 h1{
+  font-family: 'Bebas Neue';
+  color: #666262;
+  padding-right: 2px;
+}
+.rat2 h4{
+  font-family: 'Jura';
+  margin-top: -12px;
+  color: #ffffff;
+  margin-left: -70px;
+}
+.cat2 h4{
+  font-family: 'Jura';
+  margin-top: -12px;
+  color: #ffffff;
+  padding-right: 2px;
+
+}
